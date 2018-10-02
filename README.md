@@ -42,10 +42,12 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remiprev/teamocil) a simple tool used to automatically create windows and panes in tmux with YAML files
 - [tmux-cssh](https://github.com/dennishafemann/tmux-cssh) TMUX with a "ClusterSSH"-like behaviour
+- [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [tmuxifier](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) Intelligent tmux session management
 - [tmuxp](https://github.com/tony/tmuxp) :computer: tmux session manager and python library
+- [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux intigration
 
 ## Plugins
@@ -55,6 +57,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+- [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 - [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
   - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
   - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
@@ -89,5 +92,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## Miscellaneous
 
 - [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
+- [sublime-tmux](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 - [vim-tmux](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Seamless navigation between tmux panes and vim splits
+- [tmux-tail-f](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
